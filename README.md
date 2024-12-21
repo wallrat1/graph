@@ -93,4 +93,4 @@ file_hash = abcdef1234567890abcdef1234567890abcdef12
 
 ## Автор
 
-Проект разработан [yourusername](https://github.com/yourusername).
+Проект разработан wallrat1.
